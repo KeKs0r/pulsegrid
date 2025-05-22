@@ -1,0 +1,19 @@
+{
+  "name": "pulsegrid",
+  "module": "index.ts",
+  "type": "module",
+  "private": true,
+  "scripts": {
+    "codegen": "bunx openapi-typescript https://api.energy-charts.info/openapi.json -o src/schema.d.ts -t"
+  },
+  "devDependencies": {
+    "@types/bun": "latest"
+  },
+  "peerDependencies": {
+    "typescript": "^5"
+  },
+  "dependencies": {
+    "es-toolkit": "^1.38.0",
+    "openapi-fetch": "^0.14.0"
+  }
+}
