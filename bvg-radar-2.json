@@ -1,0 +1,3872 @@
+[
+  {
+    "name": "Gardens of the World",
+    "north": 52.539327,
+    "west": 13.556528,
+    "south": 52.531731,
+    "east": 13.578587,
+    "direction": "S Springpfuhl",
+    "tripId": "1|70103|9|86|22052025",
+    "line": {
+      "type": "line",
+      "id": "de-vbb-11000000-tram-m8",
+      "fahrtNr": null,
+      "name": "M8",
+      "public": true,
+      "productName": "Tram",
+      "mode": "train",
+      "product": "tram"
+    },
+    "location": {
+      "type": "location",
+      "latitude": 52.534722,
+      "longitude": 13.557585
+    },
+    "nextStopovers": [
+      {
+        "stop": {
+          "type": "stop",
+          "id": "900170010",
+          "name": "Betriebshof Marzahn (Berlin)",
+          "location": {
+            "type": "location",
+            "id": "900170010",
+            "latitude": 52.549006,
+            "longitude": 13.583717
+          },
+          "products": {
+            "suburban": false,
+            "subway": false,
+            "tram": true,
+            "bus": true,
+            "ferry": false,
+            "express": false,
+            "regional": false
+          }
+        },
+        "arrival": null,
+        "plannedArrival": null,
+        "arrivalDelay": null,
+        "arrivalPlatform": null,
+        "arrivalPrognosisType": null,
+        "plannedArrivalPlatform": null,
+        "departure": "2025-05-22T15:17:00+02:00",
+        "plannedDeparture": "2025-05-22T15:26:00+02:00",
+        "departureDelay": -540,
+        "departurePlatform": null,
+        "departurePrognosisType": null,
+        "plannedDeparturePlatform": null
+      },
+      {
+        "stop": {
+          "type": "stop",
+          "id": "900170515",
+          "name": "Adersleber Weg (Berlin)",
+          "location": {
+            "type": "location",
+            "id": "900170515",
+            "latitude": 52.537896,
+            "longitude": 13.560318
+          },
+          "products": {
+            "suburban": false,
+            "subway": false,
+            "tram": true,
+            "bus": true,
+            "ferry": false,
+            "express": false,
+            "regional": false
+          }
+        },
+        "arrival": "2025-05-22T15:23:00+02:00",
+        "plannedArrival": "2025-05-22T15:32:00+02:00",
+        "arrivalDelay": -540,
+        "arrivalPlatform": null,
+        "arrivalPrognosisType": null,
+        "plannedArrivalPlatform": null,
+        "departure": "2025-05-22T15:23:00+02:00",
+        "plannedDeparture": "2025-05-22T15:32:00+02:00",
+        "departureDelay": -540,
+        "departurePlatform": null,
+        "departurePrognosisType": null,
+        "plannedDeparturePlatform": null
+      },
+      {
+        "stop": {
+          "type": "stop",
+          "id": "900170019",
+          "name": "Allee der Kosmonauten/Poelchaustr. (Berlin)",
+          "location": {
+            "type": "location",
+            "id": "900170019",
+            "latitude": 52.533931,
+            "longitude": 13.552785
+          },
+          "products": {
+            "suburban": false,
+            "subway": false,
+            "tram": true,
+            "bus": true,
+            "ferry": false,
+            "express": false,
+            "regional": false
+          }
+        },
+        "arrival": "2025-05-22T15:25:00+02:00",
+        "plannedArrival": "2025-05-22T15:34:00+02:00",
+        "arrivalDelay": -540,
+        "arrivalPlatform": null,
+        "arrivalPrognosisType": null,
+        "plannedArrivalPlatform": null,
+        "departure": "2025-05-22T15:25:00+02:00",
+        "plannedDeparture": "2025-05-22T15:34:00+02:00",
+        "departureDelay": -540,
+        "departurePlatform": null,
+        "departurePrognosisType": null,
+        "plannedDeparturePlatform": null
+      },
+      {
+        "stop": {
+          "type": "stop",
+          "id": "900171003",
+          "name": "S Springpfuhl (Berlin)",
+          "location": {
+            "type": "location",
+            "id": "900171003",
+            "latitude": 52.526147,
+            "longitude": 13.536874
+          },
+          "products": {
+            "suburban": true,
+            "subway": false,
+            "tram": true,
+            "bus": true,
+            "ferry": false,
+            "express": false,
+            "regional": false
+          }
+        },
+        "arrival": "2025-05-22T15:29:00+02:00",
+        "plannedArrival": "2025-05-22T15:38:00+02:00",
+        "arrivalDelay": -540,
+        "arrivalPlatform": null,
+        "arrivalPrognosisType": null,
+        "plannedArrivalPlatform": null,
+        "departure": null,
+        "plannedDeparture": null,
+        "departureDelay": null,
+        "departurePlatform": null,
+        "departurePrognosisType": null,
+        "plannedDeparturePlatform": null
+      }
+    ],
+    "frames": [
+      {
+        "origin": {
+          "type": "stop",
+          "id": "900170515",
+          "name": "Adersleber Weg (Berlin)",
+          "location": {
+            "type": "location",
+            "id": "900170515",
+            "latitude": 52.537896,
+            "longitude": 13.560318
+          },
+          "products": {
+            "suburban": false,
+            "subway": false,
+            "tram": true,
+            "bus": true,
+            "ferry": false,
+            "express": false,
+            "regional": false
+          }
+        },
+        "destination": {
+          "type": "stop",
+          "id": "900170019",
+          "name": "Allee der Kosmonauten/Poelchaustr. (Berlin)",
+          "location": {
+            "type": "location",
+            "id": "900170019",
+            "latitude": 52.533931,
+            "longitude": 13.552785
+          },
+          "products": {
+            "suburban": false,
+            "subway": false,
+            "tram": true,
+            "bus": true,
+            "ferry": false,
+            "express": false,
+            "regional": false
+          }
+        },
+        "t": 0
+      },
+      {
+        "origin": {
+          "type": "stop",
+          "id": "900170515",
+          "name": "Adersleber Weg (Berlin)",
+          "location": {
+            "type": "location",
+            "id": "900170515",
+            "latitude": 52.537896,
+            "longitude": 13.560318
+          },
+          "products": {
+            "suburban": false,
+            "subway": false,
+            "tram": true,
+            "bus": true,
+            "ferry": false,
+            "express": false,
+            "regional": false
+          }
+        },
+        "destination": {
+          "type": "stop",
+          "id": "900170019",
+          "name": "Allee der Kosmonauten/Poelchaustr. (Berlin)",
+          "location": {
+            "type": "location",
+            "id": "900170019",
+            "latitude": 52.533931,
+            "longitude": 13.552785
+          },
+          "products": {
+            "suburban": false,
+            "subway": false,
+            "tram": true,
+            "bus": true,
+            "ferry": false,
+            "express": false,
+            "regional": false
+          }
+        },
+        "t": 10000
+      },
+      {
+        "origin": {
+          "type": "stop",
+          "id": "900170515",
+          "name": "Adersleber Weg (Berlin)",
+          "location": {
+            "type": "location",
+            "id": "900170515",
+            "latitude": 52.537896,
+            "longitude": 13.560318
+          },
+          "products": {
+            "suburban": false,
+            "subway": false,
+            "tram": true,
+            "bus": true,
+            "ferry": false,
+            "express": false,
+            "regional": false
+          }
+        },
+        "destination": {
+          "type": "stop",
+          "id": "900170019",
+          "name": "Allee der Kosmonauten/Poelchaustr. (Berlin)",
+          "location": {
+            "type": "location",
+            "id": "900170019",
+            "latitude": 52.533931,
+            "longitude": 13.552785
+          },
+          "products": {
+            "suburban": false,
+            "subway": false,
+            "tram": true,
+            "bus": true,
+            "ferry": false,
+            "express": false,
+            "regional": false
+          }
+        },
+        "t": 20000
+      },
+      {
+        "origin": {
+          "type": "stop",
+          "id": "900170515",
+          "name": "Adersleber Weg (Berlin)",
+          "location": {
+            "type": "location",
+            "id": "900170515",
+            "latitude": 52.537896,
+            "longitude": 13.560318
+          },
+          "products": {
+            "suburban": false,
+            "subway": false,
+            "tram": true,
+            "bus": true,
+            "ferry": false,
+            "express": false,
+            "regional": false
+          }
+        },
+        "destination": {
+          "type": "stop",
+          "id": "900170019",
+          "name": "Allee der Kosmonauten/Poelchaustr. (Berlin)",
+          "location": {
+            "type": "location",
+            "id": "900170019",
+            "latitude": 52.533931,
+            "longitude": 13.552785
+          },
+          "products": {
+            "suburban": false,
+            "subway": false,
+            "tram": true,
+            "bus": true,
+            "ferry": false,
+            "express": false,
+            "regional": false
+          }
+        },
+        "t": 30000
+      }
+    ],
+    "polyline": {
+      "type": "FeatureCollection",
+      "features": [
+        {
+          "type": "Feature",
+          "properties": {},
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              13.55759,
+              52.53472
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {},
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              13.55679,
+              52.53417
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {},
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              13.55562,
+              52.53395
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {},
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              13.55439,
+              52.53391
+            ]
+          }
+        }
+      ]
+    },
+    "realtimeDataUpdatedAt": 1747920190,
+    "ingestedAt": 1747920236819
+  },
+  {
+    "name": "Gardens of the World",
+    "north": 52.539327,
+    "west": 13.556528,
+    "south": 52.531731,
+    "east": 13.578587,
+    "direction": "S+U Wuhletal",
+    "tripId": "1|45836|4|86|22052025",
+    "line": {
+      "type": "line",
+      "id": "de-vbb-11000000-bus-291",
+      "fahrtNr": null,
+      "name": "291",
+      "public": true,
+      "productName": "Bus",
+      "mode": "bus",
+      "product": "bus"
+    },
+    "location": {
+      "type": "location",
+      "latitude": 52.534048,
+      "longitude": 13.558978
+    },
+    "nextStopovers": [
+      {
+        "stop": {
+          "type": "stop",
+          "id": "900170702",
+          "name": "S Marzahn (Bln) [Bushafen]",
+          "location": {
+            "type": "location",
+            "id": "900170702",
+            "latitude": 52.542777,
+            "longitude": 13.543598
+          },
+          "products": {
+            "suburban": false,
+            "subway": false,
+            "tram": false,
+            "bus": true,
+            "ferry": false,
+            "express": false,
+            "regional": false
+          }
+        },
+        "arrival": null,
+        "plannedArrival": null,
+        "arrivalDelay": null,
+        "arrivalPlatform": null,
+        "arrivalPrognosisType": null,
+        "plannedArrivalPlatform": null,
+        "departure": "2025-05-22T15:17:00+02:00",
+        "plannedDeparture": "2025-05-22T15:17:00+02:00",
+        "departureDelay": null,
+        "departurePlatform": "Pos. 2",
+        "departurePrognosisType": null,
+        "plannedDeparturePlatform": "Pos. 2"
+      },
+      {
+        "stop": {
+          "type": "stop",
+          "id": "900170019",
+          "name": "Allee der Kosmonauten/Poelchaustr. (Berlin)",
+          "location": {
+            "type": "location",
+            "id": "900170019",
+            "latitude": 52.533931,
+            "longitude": 13.552785
+          },
+          "products": {
+            "suburban": false,
+            "subway": false,
+            "tram": true,
+            "bus": true,
+            "ferry": false,
+            "express": false,
+            "regional": false
+          }
+        },
+        "arrival": "2025-05-22T15:23:00+02:00",
+        "plannedArrival": "2025-05-22T15:24:00+02:00",
+        "arrivalDelay": -60,
+        "arrivalPlatform": null,
+        "arrivalPrognosisType": null,
+        "plannedArrivalPlatform": null,
+        "departure": "2025-05-22T15:23:00+02:00",
+        "plannedDeparture": "2025-05-22T15:24:00+02:00",
+        "departureDelay": -60,
+        "departurePlatform": null,
+        "departurePrognosisType": null,
+        "plannedDeparturePlatform": null
+      },
+      {
+        "stop": {
+          "type": "stop",
+          "id": "900170513",
+          "name": "Elisabethstr./Oberfeldstr. (Berlin)",
+          "location": {
+            "type": "location",
+            "id": "900170513",
+            "latitude": 52.534048,
+            "longitude": 13.559491
+          },
+          "products": {
+            "suburban": false,
+            "subway": false,
+            "tram": false,
+            "bus": true,
+            "ferry": false,
+            "express": false,
+            "regional": false
+          }
+        },
+        "arrival": "2025-05-22T15:24:00+02:00",
+        "plannedArrival": "2025-05-22T15:25:00+02:00",
+        "arrivalDelay": -60,
+        "arrivalPlatform": null,
+        "arrivalPrognosisType": null,
+        "plannedArrivalPlatform": null,
+        "departure": "2025-05-22T15:24:00+02:00",
+        "plannedDeparture": "2025-05-22T15:25:00+02:00",
+        "departureDelay": -60,
+        "departurePlatform": null,
+        "departurePrognosisType": null,
+        "plannedDeparturePlatform": null
+      },
+      {
+        "stop": {
+          "type": "stop",
+          "id": "900175001",
+          "name": "S+U Wuhletal (Berlin)",
+          "location": {
+            "type": "location",
+            "id": "900175001",
+            "latitude": 52.512726,
+            "longitude": 13.574539
+          },
+          "products": {
+            "suburban": true,
+            "subway": true,
+            "tram": false,
+            "bus": true,
+            "ferry": false,
+            "express": false,
+            "regional": false
+          }
+        },
+        "arrival": "2025-05-22T15:39:00+02:00",
+        "plannedArrival": "2025-05-22T15:40:00+02:00",
+        "arrivalDelay": -60,
+        "arrivalPlatform": null,
+        "arrivalPrognosisType": null,
+        "plannedArrivalPlatform": null,
+        "departure": null,
+        "plannedDeparture": null,
+        "departureDelay": null,
+        "departurePlatform": null,
+        "departurePrognosisType": null,
+        "plannedDeparturePlatform": null
+      }
+    ],
+    "frames": [
+      {
+        "origin": {
+          "type": "stop",
+          "id": "900170019",
+          "name": "Allee der Kosmonauten/Poelchaustr. (Berlin)",
+          "location": {
+            "type": "location",
+            "id": "900170019",
+            "latitude": 52.533931,
+            "longitude": 13.552785
+          },
+          "products": {
+            "suburban": false,
+            "subway": false,
+            "tram": true,
+            "bus": true,
+            "ferry": false,
+            "express": false,
+            "regional": false
+          }
+        },
+        "destination": {
+          "type": "stop",
+          "id": "900170513",
+          "name": "Elisabethstr./Oberfeldstr. (Berlin)",
+          "location": {
+            "type": "location",
+            "id": "900170513",
+            "latitude": 52.534048,
+            "longitude": 13.559491
+          },
+          "products": {
+            "suburban": false,
+            "subway": false,
+            "tram": false,
+            "bus": true,
+            "ferry": false,
+            "express": false,
+            "regional": false
+          }
+        },
+        "t": 0
+      },
+      {
+        "origin": {
+          "type": "stop",
+          "id": "900170513",
+          "name": "Elisabethstr./Oberfeldstr. (Berlin)",
+          "location": {
+            "type": "location",
+            "id": "900170513",
+            "latitude": 52.534048,
+            "longitude": 13.559491
+          },
+          "products": {
+            "suburban": false,
+            "subway": false,
+            "tram": false,
+            "bus": true,
+            "ferry": false,
+            "express": false,
+            "regional": false
+          }
+        },
+        "destination": {
+          "type": "stop",
+          "id": "900170015",
+          "name": "Blumberger Damm/Elisabethstr. (Berlin)",
+          "location": {
+            "type": "location",
+            "id": "900170015",
+            "latitude": 52.534246,
+            "longitude": 13.566098
+          },
+          "products": {
+            "suburban": false,
+            "subway": false,
+            "tram": false,
+            "bus": true,
+            "ferry": false,
+            "express": false,
+            "regional": false
+          }
+        },
+        "t": 10000
+      },
+      {
+        "origin": {
+          "type": "stop",
+          "id": "900170513",
+          "name": "Elisabethstr./Oberfeldstr. (Berlin)",
+          "location": {
+            "type": "location",
+            "id": "900170513",
+            "latitude": 52.534048,
+            "longitude": 13.559491
+          },
+          "products": {
+            "suburban": false,
+            "subway": false,
+            "tram": false,
+            "bus": true,
+            "ferry": false,
+            "express": false,
+            "regional": false
+          }
+        },
+        "destination": {
+          "type": "stop",
+          "id": "900170015",
+          "name": "Blumberger Damm/Elisabethstr. (Berlin)",
+          "location": {
+            "type": "location",
+            "id": "900170015",
+            "latitude": 52.534246,
+            "longitude": 13.566098
+          },
+          "products": {
+            "suburban": false,
+            "subway": false,
+            "tram": false,
+            "bus": true,
+            "ferry": false,
+            "express": false,
+            "regional": false
+          }
+        },
+        "t": 20000
+      },
+      {
+        "origin": {
+          "type": "stop",
+          "id": "900170513",
+          "name": "Elisabethstr./Oberfeldstr. (Berlin)",
+          "location": {
+            "type": "location",
+            "id": "900170513",
+            "latitude": 52.534048,
+            "longitude": 13.559491
+          },
+          "products": {
+            "suburban": false,
+            "subway": false,
+            "tram": false,
+            "bus": true,
+            "ferry": false,
+            "express": false,
+            "regional": false
+          }
+        },
+        "destination": {
+          "type": "stop",
+          "id": "900170015",
+          "name": "Blumberger Damm/Elisabethstr. (Berlin)",
+          "location": {
+            "type": "location",
+            "id": "900170015",
+            "latitude": 52.534246,
+            "longitude": 13.566098
+          },
+          "products": {
+            "suburban": false,
+            "subway": false,
+            "tram": false,
+            "bus": true,
+            "ferry": false,
+            "express": false,
+            "regional": false
+          }
+        },
+        "t": 30000
+      }
+    ],
+    "polyline": {
+      "type": "FeatureCollection",
+      "features": [
+        {
+          "type": "Feature",
+          "properties": {},
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              13.55898,
+              52.53405
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {},
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              13.55898,
+              52.53405
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {},
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              13.55924,
+              52.53406
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {},
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              13.56022,
+              52.53409
+            ]
+          }
+        }
+      ]
+    },
+    "realtimeDataUpdatedAt": 1747920190,
+    "ingestedAt": 1747920236819
+  },
+  {
+    "name": "Gardens of the World",
+    "north": 52.539327,
+    "west": 13.556528,
+    "south": 52.531731,
+    "east": 13.578587,
+    "direction": "S Marzahn",
+    "tripId": "1|39170|4|86|22052025",
+    "line": {
+      "type": "line",
+      "id": "de-vbb-11000000-bus-191",
+      "fahrtNr": null,
+      "name": "191",
+      "public": true,
+      "productName": "Bus",
+      "mode": "bus",
+      "product": "bus"
+    },
+    "location": {
+      "type": "location",
+      "latitude": 52.534309,
+      "longitude": 13.565154
+    },
+    "nextStopovers": [
+      {
+        "stop": {
+          "type": "stop",
+          "id": "900175001",
+          "name": "S+U Wuhletal (Berlin)",
+          "location": {
+            "type": "location",
+            "id": "900175001",
+            "latitude": 52.512726,
+            "longitude": 13.574539
+          },
+          "products": {
+            "suburban": true,
+            "subway": true,
+            "tram": false,
+            "bus": true,
+            "ferry": false,
+            "express": false,
+            "regional": false
+          }
+        },
+        "arrival": null,
+        "plannedArrival": null,
+        "arrivalDelay": null,
+        "arrivalPlatform": null,
+        "arrivalPrognosisType": null,
+        "plannedArrivalPlatform": null,
+        "departure": "2025-05-22T15:11:00+02:00",
+        "plannedDeparture": "2025-05-22T15:11:00+02:00",
+        "departureDelay": null,
+        "departurePlatform": null,
+        "departurePrognosisType": null,
+        "plannedDeparturePlatform": null
+      },
+      {
+        "stop": {
+          "type": "stop",
+          "id": "900171010",
+          "name": "Cecilienstr./Blumberger Damm (Berlin)",
+          "location": {
+            "type": "location",
+            "id": "900171010",
+            "latitude": 52.529077,
+            "longitude": 13.565765
+          },
+          "products": {
+            "suburban": false,
+            "subway": false,
+            "tram": false,
+            "bus": true,
+            "ferry": false,
+            "express": false,
+            "regional": false
+          }
+        },
+        "arrival": "2025-05-22T15:23:00+02:00",
+        "plannedArrival": "2025-05-22T15:21:00+02:00",
+        "arrivalDelay": 120,
+        "arrivalPlatform": null,
+        "arrivalPrognosisType": null,
+        "plannedArrivalPlatform": null,
+        "departure": "2025-05-22T15:23:00+02:00",
+        "plannedDeparture": "2025-05-22T15:21:00+02:00",
+        "departureDelay": 120,
+        "departurePlatform": null,
+        "departurePrognosisType": null,
+        "plannedDeparturePlatform": null
+      },
+      {
+        "stop": {
+          "type": "stop",
+          "id": "900170015",
+          "name": "Blumberger Damm/Elisabethstr. (Berlin)",
+          "location": {
+            "type": "location",
+            "id": "900170015",
+            "latitude": 52.534246,
+            "longitude": 13.566098
+          },
+          "products": {
+            "suburban": false,
+            "subway": false,
+            "tram": false,
+            "bus": true,
+            "ferry": false,
+            "express": false,
+            "regional": false
+          }
+        },
+        "arrival": "2025-05-22T15:24:00+02:00",
+        "plannedArrival": "2025-05-22T15:22:00+02:00",
+        "arrivalDelay": 120,
+        "arrivalPlatform": null,
+        "arrivalPrognosisType": null,
+        "plannedArrivalPlatform": null,
+        "departure": "2025-05-22T15:24:00+02:00",
+        "plannedDeparture": "2025-05-22T15:22:00+02:00",
+        "departureDelay": 120,
+        "departurePlatform": null,
+        "departurePrognosisType": null,
+        "plannedDeparturePlatform": null
+      },
+      {
+        "stop": {
+          "type": "stop",
+          "id": "900170702",
+          "name": "S Marzahn (Bln) [Bushafen]",
+          "location": {
+            "type": "location",
+            "id": "900170702",
+            "latitude": 52.542777,
+            "longitude": 13.543598
+          },
+          "products": {
+            "suburban": false,
+            "subway": false,
+            "tram": false,
+            "bus": true,
+            "ferry": false,
+            "express": false,
+            "regional": false
+          }
+        },
+        "arrival": "2025-05-22T15:35:00+02:00",
+        "plannedArrival": "2025-05-22T15:33:00+02:00",
+        "arrivalDelay": 120,
+        "arrivalPlatform": "Pos. 1",
+        "arrivalPrognosisType": null,
+        "plannedArrivalPlatform": "Pos. 1",
+        "departure": null,
+        "plannedDeparture": null,
+        "departureDelay": null,
+        "departurePlatform": null,
+        "departurePrognosisType": null,
+        "plannedDeparturePlatform": null
+      }
+    ],
+    "frames": [
+      {
+        "origin": {
+          "type": "stop",
+          "id": "900171010",
+          "name": "Cecilienstr./Blumberger Damm (Berlin)",
+          "location": {
+            "type": "location",
+            "id": "900171010",
+            "latitude": 52.529077,
+            "longitude": 13.565765
+          },
+          "products": {
+            "suburban": false,
+            "subway": false,
+            "tram": false,
+            "bus": true,
+            "ferry": false,
+            "express": false,
+            "regional": false
+          }
+        },
+        "destination": {
+          "type": "stop",
+          "id": "900170015",
+          "name": "Blumberger Damm/Elisabethstr. (Berlin)",
+          "location": {
+            "type": "location",
+            "id": "900170015",
+            "latitude": 52.534246,
+            "longitude": 13.566098
+          },
+          "products": {
+            "suburban": false,
+            "subway": false,
+            "tram": false,
+            "bus": true,
+            "ferry": false,
+            "express": false,
+            "regional": false
+          }
+        },
+        "t": 0
+      },
+      {
+        "origin": {
+          "type": "stop",
+          "id": "900170015",
+          "name": "Blumberger Damm/Elisabethstr. (Berlin)",
+          "location": {
+            "type": "location",
+            "id": "900170015",
+            "latitude": 52.534246,
+            "longitude": 13.566098
+          },
+          "products": {
+            "suburban": false,
+            "subway": false,
+            "tram": false,
+            "bus": true,
+            "ferry": false,
+            "express": false,
+            "regional": false
+          }
+        },
+        "destination": {
+          "type": "stop",
+          "id": "900170513",
+          "name": "Elisabethstr./Oberfeldstr. (Berlin)",
+          "location": {
+            "type": "location",
+            "id": "900170513",
+            "latitude": 52.534048,
+            "longitude": 13.559491
+          },
+          "products": {
+            "suburban": false,
+            "subway": false,
+            "tram": false,
+            "bus": true,
+            "ferry": false,
+            "express": false,
+            "regional": false
+          }
+        },
+        "t": 10000
+      },
+      {
+        "origin": {
+          "type": "stop",
+          "id": "900170015",
+          "name": "Blumberger Damm/Elisabethstr. (Berlin)",
+          "location": {
+            "type": "location",
+            "id": "900170015",
+            "latitude": 52.534246,
+            "longitude": 13.566098
+          },
+          "products": {
+            "suburban": false,
+            "subway": false,
+            "tram": false,
+            "bus": true,
+            "ferry": false,
+            "express": false,
+            "regional": false
+          }
+        },
+        "destination": {
+          "type": "stop",
+          "id": "900170513",
+          "name": "Elisabethstr./Oberfeldstr. (Berlin)",
+          "location": {
+            "type": "location",
+            "id": "900170513",
+            "latitude": 52.534048,
+            "longitude": 13.559491
+          },
+          "products": {
+            "suburban": false,
+            "subway": false,
+            "tram": false,
+            "bus": true,
+            "ferry": false,
+            "express": false,
+            "regional": false
+          }
+        },
+        "t": 20000
+      },
+      {
+        "origin": {
+          "type": "stop",
+          "id": "900170015",
+          "name": "Blumberger Damm/Elisabethstr. (Berlin)",
+          "location": {
+            "type": "location",
+            "id": "900170015",
+            "latitude": 52.534246,
+            "longitude": 13.566098
+          },
+          "products": {
+            "suburban": false,
+            "subway": false,
+            "tram": false,
+            "bus": true,
+            "ferry": false,
+            "express": false,
+            "regional": false
+          }
+        },
+        "destination": {
+          "type": "stop",
+          "id": "900170513",
+          "name": "Elisabethstr./Oberfeldstr. (Berlin)",
+          "location": {
+            "type": "location",
+            "id": "900170513",
+            "latitude": 52.534048,
+            "longitude": 13.559491
+          },
+          "products": {
+            "suburban": false,
+            "subway": false,
+            "tram": false,
+            "bus": true,
+            "ferry": false,
+            "express": false,
+            "regional": false
+          }
+        },
+        "t": 30000
+      }
+    ],
+    "polyline": {
+      "type": "FeatureCollection",
+      "features": [
+        {
+          "type": "Feature",
+          "properties": {},
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              13.56515,
+              52.53431
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {},
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              13.56515,
+              52.53431
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {},
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              13.56505,
+              52.53431
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {},
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              13.56372,
+              52.53426
+            ]
+          }
+        }
+      ]
+    },
+    "realtimeDataUpdatedAt": 1747920190,
+    "ingestedAt": 1747920236819
+  },
+  {
+    "name": "Tempelhofer Feld, Southwest entrance",
+    "north": 52.473396,
+    "west": 13.381952,
+    "south": 52.468194,
+    "east": 13.391222,
+    "direction": "Alt-Mariendorf",
+    "tripId": "1|72665|0|86|22052025",
+    "line": {
+      "type": "line",
+      "id": "de-vbb-11000000-u-bahn-u6",
+      "fahrtNr": null,
+      "name": "U6",
+      "public": true,
+      "productName": "U",
+      "mode": "train",
+      "product": "subway"
+    },
+    "location": {
+      "type": "location",
+      "latitude": 52.469739,
+      "longitude": 13.385567
+    },
+    "nextStopovers": [
+      {
+        "stop": {
+          "type": "stop",
+          "id": "900086102",
+          "name": "U Kurt-Schumacher-Platz (Berlin)",
+          "location": {
+            "type": "location",
+            "id": "900086102",
+            "latitude": 52.563479,
+            "longitude": 13.327326
+          },
+          "products": {
+            "suburban": false,
+            "subway": true,
+            "tram": false,
+            "bus": true,
+            "ferry": false,
+            "express": false,
+            "regional": false
+          }
+        },
+        "arrival": null,
+        "plannedArrival": null,
+        "arrivalDelay": null,
+        "arrivalPlatform": null,
+        "arrivalPrognosisType": null,
+        "plannedArrivalPlatform": null,
+        "departure": "2025-05-22T14:58:00+02:00",
+        "plannedDeparture": "2025-05-22T14:58:00+02:00",
+        "departureDelay": 0,
+        "departurePlatform": "1",
+        "departurePrognosisType": null,
+        "plannedDeparturePlatform": "1"
+      },
+      {
+        "stop": {
+          "type": "stop",
+          "id": "900068101",
+          "name": "U Paradestr. (Berlin)",
+          "location": {
+            "type": "location",
+            "id": "900068101",
+            "latitude": 52.478144,
+            "longitude": 13.386727
+          },
+          "products": {
+            "suburban": false,
+            "subway": true,
+            "tram": false,
+            "bus": true,
+            "ferry": false,
+            "express": false,
+            "regional": false
+          }
+        },
+        "arrival": "2025-05-22T15:22:00+02:00",
+        "plannedArrival": "2025-05-22T15:22:00+02:00",
+        "arrivalDelay": 0,
+        "arrivalPlatform": "1",
+        "arrivalPrognosisType": null,
+        "plannedArrivalPlatform": "1",
+        "departure": "2025-05-22T15:22:00+02:00",
+        "plannedDeparture": "2025-05-22T15:22:00+02:00",
+        "departureDelay": 0,
+        "departurePlatform": "1",
+        "departurePrognosisType": null,
+        "plannedDeparturePlatform": "1"
+      },
+      {
+        "stop": {
+          "type": "stop",
+          "id": "900068201",
+          "name": "S+U Tempelhof (Berlin)",
+          "location": {
+            "type": "location",
+            "id": "900068201",
+            "latitude": 52.470575,
+            "longitude": 13.3859
+          },
+          "products": {
+            "suburban": true,
+            "subway": true,
+            "tram": false,
+            "bus": true,
+            "ferry": false,
+            "express": false,
+            "regional": false
+          }
+        },
+        "arrival": "2025-05-22T15:24:00+02:00",
+        "plannedArrival": "2025-05-22T15:24:00+02:00",
+        "arrivalDelay": 0,
+        "arrivalPlatform": "1",
+        "arrivalPrognosisType": null,
+        "plannedArrivalPlatform": "1",
+        "departure": "2025-05-22T15:24:00+02:00",
+        "plannedDeparture": "2025-05-22T15:24:00+02:00",
+        "departureDelay": 0,
+        "departurePlatform": "1",
+        "departurePrognosisType": null,
+        "plannedDeparturePlatform": "1"
+      },
+      {
+        "stop": {
+          "type": "stop",
+          "id": "900070301",
+          "name": "U Alt-Mariendorf (Berlin)",
+          "location": {
+            "type": "location",
+            "id": "900070301",
+            "latitude": 52.43861,
+            "longitude": 13.387922
+          },
+          "products": {
+            "suburban": false,
+            "subway": true,
+            "tram": false,
+            "bus": false,
+            "ferry": false,
+            "express": false,
+            "regional": false
+          }
+        },
+        "arrival": "2025-05-22T15:30:00+02:00",
+        "plannedArrival": "2025-05-22T15:30:00+02:00",
+        "arrivalDelay": 0,
+        "arrivalPlatform": "2",
+        "arrivalPrognosisType": null,
+        "plannedArrivalPlatform": "2",
+        "departure": null,
+        "plannedDeparture": null,
+        "departureDelay": null,
+        "departurePlatform": null,
+        "departurePrognosisType": null,
+        "plannedDeparturePlatform": null
+      }
+    ],
+    "frames": [
+      {
+        "origin": {
+          "type": "stop",
+          "id": "900068101",
+          "name": "U Paradestr. (Berlin)",
+          "location": {
+            "type": "location",
+            "id": "900068101",
+            "latitude": 52.478144,
+            "longitude": 13.386727
+          },
+          "products": {
+            "suburban": false,
+            "subway": true,
+            "tram": false,
+            "bus": true,
+            "ferry": false,
+            "express": false,
+            "regional": false
+          }
+        },
+        "destination": {
+          "type": "stop",
+          "id": "900068201",
+          "name": "S+U Tempelhof (Berlin)",
+          "location": {
+            "type": "location",
+            "id": "900068201",
+            "latitude": 52.470575,
+            "longitude": 13.3859
+          },
+          "products": {
+            "suburban": true,
+            "subway": true,
+            "tram": false,
+            "bus": true,
+            "ferry": false,
+            "express": false,
+            "regional": false
+          }
+        },
+        "t": 0
+      },
+      {
+        "origin": {
+          "type": "stop",
+          "id": "900068201",
+          "name": "S+U Tempelhof (Berlin)",
+          "location": {
+            "type": "location",
+            "id": "900068201",
+            "latitude": 52.470575,
+            "longitude": 13.3859
+          },
+          "products": {
+            "suburban": true,
+            "subway": true,
+            "tram": false,
+            "bus": true,
+            "ferry": false,
+            "express": false,
+            "regional": false
+          }
+        },
+        "destination": {
+          "type": "stop",
+          "id": "900068202",
+          "name": "U Alt-Tempelhof (Berlin)",
+          "location": {
+            "type": "location",
+            "id": "900068202",
+            "latitude": 52.465928,
+            "longitude": 13.385792
+          },
+          "products": {
+            "suburban": false,
+            "subway": true,
+            "tram": false,
+            "bus": true,
+            "ferry": false,
+            "express": false,
+            "regional": false
+          }
+        },
+        "t": 10000
+      },
+      {
+        "origin": {
+          "type": "stop",
+          "id": "900068201",
+          "name": "S+U Tempelhof (Berlin)",
+          "location": {
+            "type": "location",
+            "id": "900068201",
+            "latitude": 52.470575,
+            "longitude": 13.3859
+          },
+          "products": {
+            "suburban": true,
+            "subway": true,
+            "tram": false,
+            "bus": true,
+            "ferry": false,
+            "express": false,
+            "regional": false
+          }
+        },
+        "destination": {
+          "type": "stop",
+          "id": "900068202",
+          "name": "U Alt-Tempelhof (Berlin)",
+          "location": {
+            "type": "location",
+            "id": "900068202",
+            "latitude": 52.465928,
+            "longitude": 13.385792
+          },
+          "products": {
+            "suburban": false,
+            "subway": true,
+            "tram": false,
+            "bus": true,
+            "ferry": false,
+            "express": false,
+            "regional": false
+          }
+        },
+        "t": 20000
+      },
+      {
+        "origin": {
+          "type": "stop",
+          "id": "900068201",
+          "name": "S+U Tempelhof (Berlin)",
+          "location": {
+            "type": "location",
+            "id": "900068201",
+            "latitude": 52.470575,
+            "longitude": 13.3859
+          },
+          "products": {
+            "suburban": true,
+            "subway": true,
+            "tram": false,
+            "bus": true,
+            "ferry": false,
+            "express": false,
+            "regional": false
+          }
+        },
+        "destination": {
+          "type": "stop",
+          "id": "900068202",
+          "name": "U Alt-Tempelhof (Berlin)",
+          "location": {
+            "type": "location",
+            "id": "900068202",
+            "latitude": 52.465928,
+            "longitude": 13.385792
+          },
+          "products": {
+            "suburban": false,
+            "subway": true,
+            "tram": false,
+            "bus": true,
+            "ferry": false,
+            "express": false,
+            "regional": false
+          }
+        },
+        "t": 30000
+      }
+    ],
+    "polyline": {
+      "type": "FeatureCollection",
+      "features": [
+        {
+          "type": "Feature",
+          "properties": {},
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              13.38557,
+              52.46974
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {},
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              13.38557,
+              52.46974
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {},
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              13.38558,
+              52.46968
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {},
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              13.38565,
+              52.46852
+            ]
+          }
+        }
+      ]
+    },
+    "realtimeDataUpdatedAt": 1747920220,
+    "ingestedAt": 1747920236819
+  },
+  {
+    "name": "S-Bahn Wannsee",
+    "north": 52.422846,
+    "west": 13.174645,
+    "south": 52.420742,
+    "east": 13.181141,
+    "direction": "S Wannsee -> 318 Hahn-Meitner-Platz",
+    "tripId": "1|103811|10|86|22052025",
+    "line": {
+      "type": "line",
+      "id": "de-vbb-11000000-bus-118",
+      "fahrtNr": null,
+      "name": "118",
+      "public": true,
+      "productName": "Bus",
+      "mode": "bus",
+      "product": "bus"
+    },
+    "location": {
+      "type": "location",
+      "latitude": 52.42135,
+      "longitude": 13.177952
+    },
+    "nextStopovers": [
+      {
+        "stop": {
+          "type": "stop",
+          "id": "900050201",
+          "name": "U Krumme Lanke (Berlin)",
+          "location": {
+            "type": "location",
+            "id": "900050201",
+            "latitude": 52.442619,
+            "longitude": 13.240356
+          },
+          "products": {
+            "suburban": false,
+            "subway": true,
+            "tram": false,
+            "bus": true,
+            "ferry": false,
+            "express": false,
+            "regional": false
+          }
+        },
+        "arrival": null,
+        "plannedArrival": null,
+        "arrivalDelay": null,
+        "arrivalPlatform": null,
+        "arrivalPrognosisType": null,
+        "plannedArrivalPlatform": null,
+        "departure": "2025-05-22T15:06:00+02:00",
+        "plannedDeparture": "2025-05-22T15:06:00+02:00",
+        "departureDelay": 0,
+        "departurePlatform": null,
+        "departurePrognosisType": null,
+        "plannedDeparturePlatform": null
+      },
+      {
+        "stop": {
+          "type": "stop",
+          "id": "900053291",
+          "name": "Wannseebrücke (Berlin)",
+          "location": {
+            "type": "location",
+            "id": "900053291",
+            "latitude": 52.419948,
+            "longitude": 13.175211
+          },
+          "products": {
+            "suburban": false,
+            "subway": false,
+            "tram": false,
+            "bus": true,
+            "ferry": false,
+            "express": false,
+            "regional": false
+          }
+        },
+        "arrival": "2025-05-22T15:23:00+02:00",
+        "plannedArrival": "2025-05-22T15:23:00+02:00",
+        "arrivalDelay": 0,
+        "arrivalPlatform": null,
+        "arrivalPrognosisType": null,
+        "plannedArrivalPlatform": null,
+        "departure": "2025-05-22T15:23:00+02:00",
+        "plannedDeparture": "2025-05-22T15:23:00+02:00",
+        "departureDelay": 0,
+        "departurePlatform": null,
+        "departurePrognosisType": null,
+        "plannedDeparturePlatform": null
+      },
+      {
+        "stop": {
+          "type": "stop",
+          "id": "900053301",
+          "name": "S Wannsee Bhf (Berlin)",
+          "location": {
+            "type": "location",
+            "id": "900053301",
+            "latitude": 52.421728,
+            "longitude": 13.178932
+          },
+          "products": {
+            "suburban": true,
+            "subway": false,
+            "tram": false,
+            "bus": true,
+            "ferry": false,
+            "express": true,
+            "regional": true
+          }
+        },
+        "arrival": "2025-05-22T15:24:00+02:00",
+        "plannedArrival": "2025-05-22T15:24:00+02:00",
+        "arrivalDelay": 0,
+        "arrivalPlatform": "Pos. 5",
+        "arrivalPrognosisType": null,
+        "plannedArrivalPlatform": "Pos. 5",
+        "departure": "2025-05-22T15:27:00+02:00",
+        "plannedDeparture": "2025-05-22T15:27:00+02:00",
+        "departureDelay": 0,
+        "departurePlatform": null,
+        "departurePrognosisType": null,
+        "plannedDeparturePlatform": null
+      },
+      {
+        "stop": {
+          "type": "stop",
+          "id": "900053206",
+          "name": "Hahn-Meitner-Platz (Berlin)",
+          "location": {
+            "type": "location",
+            "id": "900053206",
+            "latitude": 52.411552,
+            "longitude": 13.133321
+          },
+          "products": {
+            "suburban": false,
+            "subway": false,
+            "tram": false,
+            "bus": true,
+            "ferry": false,
+            "express": false,
+            "regional": false
+          }
+        },
+        "arrival": "2025-05-22T15:37:00+02:00",
+        "plannedArrival": "2025-05-22T15:37:00+02:00",
+        "arrivalDelay": 0,
+        "arrivalPlatform": null,
+        "arrivalPrognosisType": null,
+        "plannedArrivalPlatform": null,
+        "departure": null,
+        "plannedDeparture": null,
+        "departureDelay": null,
+        "departurePlatform": null,
+        "departurePrognosisType": null,
+        "plannedDeparturePlatform": null
+      }
+    ],
+    "frames": [
+      {
+        "origin": {
+          "type": "stop",
+          "id": "900053291",
+          "name": "Wannseebrücke (Berlin)",
+          "location": {
+            "type": "location",
+            "id": "900053291",
+            "latitude": 52.419948,
+            "longitude": 13.175211
+          },
+          "products": {
+            "suburban": false,
+            "subway": false,
+            "tram": false,
+            "bus": true,
+            "ferry": false,
+            "express": false,
+            "regional": false
+          }
+        },
+        "destination": {
+          "type": "stop",
+          "id": "900053301",
+          "name": "S Wannsee Bhf (Berlin)",
+          "location": {
+            "type": "location",
+            "id": "900053301",
+            "latitude": 52.421728,
+            "longitude": 13.178932
+          },
+          "products": {
+            "suburban": true,
+            "subway": false,
+            "tram": false,
+            "bus": true,
+            "ferry": false,
+            "express": true,
+            "regional": true
+          }
+        },
+        "t": 0
+      },
+      {
+        "origin": {
+          "type": "stop",
+          "id": "900053301",
+          "name": "S Wannsee Bhf (Berlin)",
+          "location": {
+            "type": "location",
+            "id": "900053301",
+            "latitude": 52.421728,
+            "longitude": 13.178932
+          },
+          "products": {
+            "suburban": true,
+            "subway": false,
+            "tram": false,
+            "bus": true,
+            "ferry": false,
+            "express": true,
+            "regional": true
+          }
+        },
+        "destination": {
+          "type": "stop",
+          "id": "900053291",
+          "name": "Wannseebrücke (Berlin)",
+          "location": {
+            "type": "location",
+            "id": "900053291",
+            "latitude": 52.419948,
+            "longitude": 13.175211
+          },
+          "products": {
+            "suburban": false,
+            "subway": false,
+            "tram": false,
+            "bus": true,
+            "ferry": false,
+            "express": false,
+            "regional": false
+          }
+        },
+        "t": 10000
+      },
+      {
+        "origin": {
+          "type": "stop",
+          "id": "900053301",
+          "name": "S Wannsee Bhf (Berlin)",
+          "location": {
+            "type": "location",
+            "id": "900053301",
+            "latitude": 52.421728,
+            "longitude": 13.178932
+          },
+          "products": {
+            "suburban": true,
+            "subway": false,
+            "tram": false,
+            "bus": true,
+            "ferry": false,
+            "express": true,
+            "regional": true
+          }
+        },
+        "destination": {
+          "type": "stop",
+          "id": "900053291",
+          "name": "Wannseebrücke (Berlin)",
+          "location": {
+            "type": "location",
+            "id": "900053291",
+            "latitude": 52.419948,
+            "longitude": 13.175211
+          },
+          "products": {
+            "suburban": false,
+            "subway": false,
+            "tram": false,
+            "bus": true,
+            "ferry": false,
+            "express": false,
+            "regional": false
+          }
+        },
+        "t": 20000
+      },
+      {
+        "origin": {
+          "type": "stop",
+          "id": "900053301",
+          "name": "S Wannsee Bhf (Berlin)",
+          "location": {
+            "type": "location",
+            "id": "900053301",
+            "latitude": 52.421728,
+            "longitude": 13.178932
+          },
+          "products": {
+            "suburban": true,
+            "subway": false,
+            "tram": false,
+            "bus": true,
+            "ferry": false,
+            "express": true,
+            "regional": true
+          }
+        },
+        "destination": {
+          "type": "stop",
+          "id": "900053291",
+          "name": "Wannseebrücke (Berlin)",
+          "location": {
+            "type": "location",
+            "id": "900053291",
+            "latitude": 52.419948,
+            "longitude": 13.175211
+          },
+          "products": {
+            "suburban": false,
+            "subway": false,
+            "tram": false,
+            "bus": true,
+            "ferry": false,
+            "express": false,
+            "regional": false
+          }
+        },
+        "t": 30000
+      }
+    ],
+    "polyline": {
+      "type": "FeatureCollection",
+      "features": [
+        {
+          "type": "Feature",
+          "properties": {},
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              13.17795,
+              52.42135
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {},
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              13.17767,
+              52.42143
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {},
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              13.17767,
+              52.42143
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {},
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              13.17767,
+              52.42143
+            ]
+          }
+        }
+      ]
+    },
+    "realtimeDataUpdatedAt": 1747920190,
+    "ingestedAt": 1747920236819
+  },
+  {
+    "name": "LSD Erotikmarkt Kurfürstenstr.",
+    "north": 52.500544,
+    "west": 13.361331,
+    "south": 52.499215,
+    "east": 13.363542,
+    "direction": "U Stadtmitte",
+    "tripId": "1|56291|29|86|22052025",
+    "line": {
+      "type": "line",
+      "id": "de-vbb-11000000-bus-m85",
+      "fahrtNr": null,
+      "name": "M85",
+      "public": true,
+      "productName": "Bus",
+      "mode": "bus",
+      "product": "bus"
+    },
+    "location": {
+      "type": "location",
+      "latitude": 52.500339,
+      "longitude": 13.363364
+    },
+    "nextStopovers": [
+      {
+        "stop": {
+          "type": "stop",
+          "id": "900064201",
+          "name": "S Lichterfelde Süd (Berlin)",
+          "location": {
+            "type": "location",
+            "id": "900064201",
+            "latitude": 52.409952,
+            "longitude": 13.308665
+          },
+          "products": {
+            "suburban": true,
+            "subway": false,
+            "tram": false,
+            "bus": true,
+            "ferry": false,
+            "express": false,
+            "regional": false
+          }
+        },
+        "arrival": null,
+        "plannedArrival": null,
+        "arrivalDelay": null,
+        "arrivalPlatform": null,
+        "arrivalPrognosisType": null,
+        "plannedArrivalPlatform": null,
+        "departure": "2025-05-22T14:29:00+02:00",
+        "plannedDeparture": "2025-05-22T14:29:00+02:00",
+        "departureDelay": 0,
+        "departurePlatform": null,
+        "departurePrognosisType": null,
+        "plannedDeparturePlatform": null
+      },
+      {
+        "stop": {
+          "type": "stop",
+          "id": "900005201",
+          "name": "U Kurfürstenstr. (Berlin)",
+          "location": {
+            "type": "location",
+            "id": "900005201",
+            "latitude": 52.499781,
+            "longitude": 13.362861
+          },
+          "products": {
+            "suburban": false,
+            "subway": true,
+            "tram": false,
+            "bus": true,
+            "ferry": false,
+            "express": false,
+            "regional": false
+          }
+        },
+        "arrival": "2025-05-22T15:23:00+02:00",
+        "plannedArrival": "2025-05-22T15:16:00+02:00",
+        "arrivalDelay": 420,
+        "arrivalPlatform": null,
+        "arrivalPrognosisType": null,
+        "plannedArrivalPlatform": null,
+        "departure": "2025-05-22T15:23:00+02:00",
+        "plannedDeparture": "2025-05-22T15:16:00+02:00",
+        "departureDelay": 420,
+        "departurePlatform": null,
+        "departurePrognosisType": null,
+        "plannedDeparturePlatform": null
+      },
+      {
+        "stop": {
+          "type": "stop",
+          "id": "900005202",
+          "name": "Lützowstr./Potsdamer Str. (Berlin)",
+          "location": {
+            "type": "location",
+            "id": "900005202",
+            "latitude": 52.503422,
+            "longitude": 13.366007
+          },
+          "products": {
+            "suburban": false,
+            "subway": false,
+            "tram": false,
+            "bus": true,
+            "ferry": false,
+            "express": false,
+            "regional": false
+          }
+        },
+        "arrival": "2025-05-22T15:26:00+02:00",
+        "plannedArrival": "2025-05-22T15:19:00+02:00",
+        "arrivalDelay": 420,
+        "arrivalPlatform": null,
+        "arrivalPrognosisType": null,
+        "plannedArrivalPlatform": null,
+        "departure": "2025-05-22T15:26:00+02:00",
+        "plannedDeparture": "2025-05-22T15:19:00+02:00",
+        "departureDelay": 420,
+        "departurePlatform": null,
+        "departurePrognosisType": null,
+        "plannedDeparturePlatform": null
+      },
+      {
+        "stop": {
+          "type": "stop",
+          "id": "900100018",
+          "name": "U Stadtmitte (Berlin) [Pos. 5 Krausenstr.]",
+          "location": {
+            "type": "location",
+            "id": "900100018",
+            "latitude": 52.509481,
+            "longitude": 13.391024
+          },
+          "products": {
+            "suburban": false,
+            "subway": false,
+            "tram": false,
+            "bus": true,
+            "ferry": false,
+            "express": false,
+            "regional": false
+          }
+        },
+        "arrival": "2025-05-22T15:36:00+02:00",
+        "plannedArrival": "2025-05-22T15:29:00+02:00",
+        "arrivalDelay": 420,
+        "arrivalPlatform": "Pos. 5",
+        "arrivalPrognosisType": null,
+        "plannedArrivalPlatform": "Pos. 5",
+        "departure": null,
+        "plannedDeparture": null,
+        "departureDelay": null,
+        "departurePlatform": null,
+        "departurePrognosisType": null,
+        "plannedDeparturePlatform": null
+      }
+    ],
+    "frames": [
+      {
+        "origin": {
+          "type": "stop",
+          "id": "900005201",
+          "name": "U Kurfürstenstr. (Berlin)",
+          "location": {
+            "type": "location",
+            "id": "900005201",
+            "latitude": 52.499781,
+            "longitude": 13.362861
+          },
+          "products": {
+            "suburban": false,
+            "subway": true,
+            "tram": false,
+            "bus": true,
+            "ferry": false,
+            "express": false,
+            "regional": false
+          }
+        },
+        "destination": {
+          "type": "stop",
+          "id": "900005202",
+          "name": "Lützowstr./Potsdamer Str. (Berlin)",
+          "location": {
+            "type": "location",
+            "id": "900005202",
+            "latitude": 52.503422,
+            "longitude": 13.366007
+          },
+          "products": {
+            "suburban": false,
+            "subway": false,
+            "tram": false,
+            "bus": true,
+            "ferry": false,
+            "express": false,
+            "regional": false
+          }
+        },
+        "t": 0
+      },
+      {
+        "origin": {
+          "type": "stop",
+          "id": "900005201",
+          "name": "U Kurfürstenstr. (Berlin)",
+          "location": {
+            "type": "location",
+            "id": "900005201",
+            "latitude": 52.499781,
+            "longitude": 13.362861
+          },
+          "products": {
+            "suburban": false,
+            "subway": true,
+            "tram": false,
+            "bus": true,
+            "ferry": false,
+            "express": false,
+            "regional": false
+          }
+        },
+        "destination": {
+          "type": "stop",
+          "id": "900005202",
+          "name": "Lützowstr./Potsdamer Str. (Berlin)",
+          "location": {
+            "type": "location",
+            "id": "900005202",
+            "latitude": 52.503422,
+            "longitude": 13.366007
+          },
+          "products": {
+            "suburban": false,
+            "subway": false,
+            "tram": false,
+            "bus": true,
+            "ferry": false,
+            "express": false,
+            "regional": false
+          }
+        },
+        "t": 10000
+      },
+      {
+        "origin": {
+          "type": "stop",
+          "id": "900005201",
+          "name": "U Kurfürstenstr. (Berlin)",
+          "location": {
+            "type": "location",
+            "id": "900005201",
+            "latitude": 52.499781,
+            "longitude": 13.362861
+          },
+          "products": {
+            "suburban": false,
+            "subway": true,
+            "tram": false,
+            "bus": true,
+            "ferry": false,
+            "express": false,
+            "regional": false
+          }
+        },
+        "destination": {
+          "type": "stop",
+          "id": "900005202",
+          "name": "Lützowstr./Potsdamer Str. (Berlin)",
+          "location": {
+            "type": "location",
+            "id": "900005202",
+            "latitude": 52.503422,
+            "longitude": 13.366007
+          },
+          "products": {
+            "suburban": false,
+            "subway": false,
+            "tram": false,
+            "bus": true,
+            "ferry": false,
+            "express": false,
+            "regional": false
+          }
+        },
+        "t": 20000
+      },
+      {
+        "origin": {
+          "type": "stop",
+          "id": "900005201",
+          "name": "U Kurfürstenstr. (Berlin)",
+          "location": {
+            "type": "location",
+            "id": "900005201",
+            "latitude": 52.499781,
+            "longitude": 13.362861
+          },
+          "products": {
+            "suburban": false,
+            "subway": true,
+            "tram": false,
+            "bus": true,
+            "ferry": false,
+            "express": false,
+            "regional": false
+          }
+        },
+        "destination": {
+          "type": "stop",
+          "id": "900005202",
+          "name": "Lützowstr./Potsdamer Str. (Berlin)",
+          "location": {
+            "type": "location",
+            "id": "900005202",
+            "latitude": 52.503422,
+            "longitude": 13.366007
+          },
+          "products": {
+            "suburban": false,
+            "subway": false,
+            "tram": false,
+            "bus": true,
+            "ferry": false,
+            "express": false,
+            "regional": false
+          }
+        },
+        "t": 30000
+      }
+    ],
+    "polyline": {
+      "type": "FeatureCollection",
+      "features": [
+        {
+          "type": "Feature",
+          "properties": {},
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              13.36336,
+              52.50034
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {},
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              13.36359,
+              52.50061
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {},
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              13.36381,
+              52.50088
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {},
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              13.36405,
+              52.50115
+            ]
+          }
+        }
+      ]
+    },
+    "realtimeDataUpdatedAt": 1747920190,
+    "ingestedAt": 1747920236819
+  },
+  {
+    "name": "Krokuswiese im Volkspark Humboldthain",
+    "north": 52.545675,
+    "west": 13.375527,
+    "south": 52.541877,
+    "east": 13.386514,
+    "direction": "S Bernau Bhf",
+    "tripId": "1|713|30|86|22052025",
+    "line": {
+      "type": "line",
+      "id": "de-vbb-11000000-s-bahn-s2",
+      "fahrtNr": null,
+      "name": "S2",
+      "public": true,
+      "productName": "S",
+      "mode": "train",
+      "product": "suburban"
+    },
+    "location": {
+      "type": "location",
+      "latitude": 52.544817,
+      "longitude": 13.379347
+    },
+    "nextStopovers": [
+      {
+        "stop": {
+          "type": "stop",
+          "id": "900245027",
+          "name": "S Blankenfelde (TF) Bhf",
+          "location": {
+            "type": "location",
+            "id": "900245027",
+            "latitude": 52.337625,
+            "longitude": 13.415906
+          },
+          "products": {
+            "suburban": true,
+            "subway": false,
+            "tram": false,
+            "bus": true,
+            "ferry": false,
+            "express": false,
+            "regional": true
+          }
+        },
+        "arrival": null,
+        "plannedArrival": null,
+        "arrivalDelay": null,
+        "arrivalPlatform": null,
+        "arrivalPrognosisType": null,
+        "plannedArrivalPlatform": null,
+        "departure": "2025-05-22T14:42:00+02:00",
+        "plannedDeparture": "2025-05-22T14:41:00+02:00",
+        "departureDelay": 60,
+        "departurePlatform": "1",
+        "departurePrognosisType": null,
+        "plannedDeparturePlatform": "1"
+      },
+      {
+        "stop": {
+          "type": "stop",
+          "id": "900007104",
+          "name": "S Nordbahnhof (Berlin)",
+          "location": {
+            "type": "location",
+            "id": "900007104",
+            "latitude": 52.531675,
+            "longitude": 13.388794
+          },
+          "products": {
+            "suburban": true,
+            "subway": false,
+            "tram": true,
+            "bus": true,
+            "ferry": false,
+            "express": false,
+            "regional": false
+          }
+        },
+        "arrival": "2025-05-22T15:21:00+02:00",
+        "plannedArrival": "2025-05-22T15:21:00+02:00",
+        "arrivalDelay": 0,
+        "arrivalPlatform": "4",
+        "arrivalPrognosisType": null,
+        "plannedArrivalPlatform": "4",
+        "departure": "2025-05-22T15:22:00+02:00",
+        "plannedDeparture": "2025-05-22T15:22:00+02:00",
+        "departureDelay": 0,
+        "departurePlatform": "4",
+        "departurePrognosisType": null,
+        "plannedDeparturePlatform": "4"
+      },
+      {
+        "stop": {
+          "type": "stop",
+          "id": "900008101",
+          "name": "S Humboldthain (Berlin)",
+          "location": {
+            "type": "location",
+            "id": "900008101",
+            "latitude": 52.544736,
+            "longitude": 13.378727
+          },
+          "products": {
+            "suburban": true,
+            "subway": false,
+            "tram": false,
+            "bus": true,
+            "ferry": false,
+            "express": false,
+            "regional": false
+          }
+        },
+        "arrival": "2025-05-22T15:24:00+02:00",
+        "plannedArrival": "2025-05-22T15:24:00+02:00",
+        "arrivalDelay": 0,
+        "arrivalPlatform": "2",
+        "arrivalPrognosisType": null,
+        "plannedArrivalPlatform": "2",
+        "departure": "2025-05-22T15:24:00+02:00",
+        "plannedDeparture": "2025-05-22T15:24:00+02:00",
+        "departureDelay": 0,
+        "departurePlatform": "2",
+        "departurePrognosisType": null,
+        "plannedDeparturePlatform": "2"
+      },
+      {
+        "stop": {
+          "type": "stop",
+          "id": "900350160",
+          "name": "S Bernau Bhf",
+          "location": {
+            "type": "location",
+            "id": "900350160",
+            "latitude": 52.675691,
+            "longitude": 13.592697
+          },
+          "products": {
+            "suburban": true,
+            "subway": false,
+            "tram": false,
+            "bus": true,
+            "ferry": false,
+            "express": true,
+            "regional": true
+          }
+        },
+        "arrival": "2025-05-22T15:54:00+02:00",
+        "plannedArrival": "2025-05-22T15:54:00+02:00",
+        "arrivalDelay": 0,
+        "arrivalPlatform": "2",
+        "arrivalPrognosisType": null,
+        "plannedArrivalPlatform": "2",
+        "departure": null,
+        "plannedDeparture": null,
+        "departureDelay": null,
+        "departurePlatform": null,
+        "departurePrognosisType": null,
+        "plannedDeparturePlatform": null
+      }
+    ],
+    "frames": [
+      {
+        "origin": {
+          "type": "stop",
+          "id": "900007104",
+          "name": "S Nordbahnhof (Berlin)",
+          "location": {
+            "type": "location",
+            "id": "900007104",
+            "latitude": 52.531675,
+            "longitude": 13.388794
+          },
+          "products": {
+            "suburban": true,
+            "subway": false,
+            "tram": true,
+            "bus": true,
+            "ferry": false,
+            "express": false,
+            "regional": false
+          }
+        },
+        "destination": {
+          "type": "stop",
+          "id": "900008101",
+          "name": "S Humboldthain (Berlin)",
+          "location": {
+            "type": "location",
+            "id": "900008101",
+            "latitude": 52.544736,
+            "longitude": 13.378727
+          },
+          "products": {
+            "suburban": true,
+            "subway": false,
+            "tram": false,
+            "bus": true,
+            "ferry": false,
+            "express": false,
+            "regional": false
+          }
+        },
+        "t": 0
+      },
+      {
+        "origin": {
+          "type": "stop",
+          "id": "900008101",
+          "name": "S Humboldthain (Berlin)",
+          "location": {
+            "type": "location",
+            "id": "900008101",
+            "latitude": 52.544736,
+            "longitude": 13.378727
+          },
+          "products": {
+            "suburban": true,
+            "subway": false,
+            "tram": false,
+            "bus": true,
+            "ferry": false,
+            "express": false,
+            "regional": false
+          }
+        },
+        "destination": {
+          "type": "stop",
+          "id": "900007102",
+          "name": "S+U Gesundbrunnen Bhf (Berlin)",
+          "location": {
+            "type": "location",
+            "id": "900007102",
+            "latitude": 52.548638,
+            "longitude": 13.388372
+          },
+          "products": {
+            "suburban": true,
+            "subway": true,
+            "tram": false,
+            "bus": true,
+            "ferry": false,
+            "express": true,
+            "regional": true
+          }
+        },
+        "t": 10000
+      },
+      {
+        "origin": {
+          "type": "stop",
+          "id": "900008101",
+          "name": "S Humboldthain (Berlin)",
+          "location": {
+            "type": "location",
+            "id": "900008101",
+            "latitude": 52.544736,
+            "longitude": 13.378727
+          },
+          "products": {
+            "suburban": true,
+            "subway": false,
+            "tram": false,
+            "bus": true,
+            "ferry": false,
+            "express": false,
+            "regional": false
+          }
+        },
+        "destination": {
+          "type": "stop",
+          "id": "900007102",
+          "name": "S+U Gesundbrunnen Bhf (Berlin)",
+          "location": {
+            "type": "location",
+            "id": "900007102",
+            "latitude": 52.548638,
+            "longitude": 13.388372
+          },
+          "products": {
+            "suburban": true,
+            "subway": true,
+            "tram": false,
+            "bus": true,
+            "ferry": false,
+            "express": true,
+            "regional": true
+          }
+        },
+        "t": 20000
+      },
+      {
+        "origin": {
+          "type": "stop",
+          "id": "900008101",
+          "name": "S Humboldthain (Berlin)",
+          "location": {
+            "type": "location",
+            "id": "900008101",
+            "latitude": 52.544736,
+            "longitude": 13.378727
+          },
+          "products": {
+            "suburban": true,
+            "subway": false,
+            "tram": false,
+            "bus": true,
+            "ferry": false,
+            "express": false,
+            "regional": false
+          }
+        },
+        "destination": {
+          "type": "stop",
+          "id": "900007102",
+          "name": "S+U Gesundbrunnen Bhf (Berlin)",
+          "location": {
+            "type": "location",
+            "id": "900007102",
+            "latitude": 52.548638,
+            "longitude": 13.388372
+          },
+          "products": {
+            "suburban": true,
+            "subway": true,
+            "tram": false,
+            "bus": true,
+            "ferry": false,
+            "express": true,
+            "regional": true
+          }
+        },
+        "t": 30000
+      }
+    ],
+    "polyline": {
+      "type": "FeatureCollection",
+      "features": [
+        {
+          "type": "Feature",
+          "properties": {},
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              13.37935,
+              52.54482
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {},
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              13.37935,
+              52.54482
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {},
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              13.37951,
+              52.545
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {},
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              13.38007,
+              52.54563
+            ]
+          }
+        }
+      ]
+    },
+    "realtimeDataUpdatedAt": 1747920190,
+    "ingestedAt": 1747920236819
+  },
+  {
+    "name": "Spreebrücke Bahnhof Friedrichstraße",
+    "north": 52.52105,
+    "west": 13.384638,
+    "south": 52.519506,
+    "east": 13.388913,
+    "direction": "S Ahrensfelde Bhf (Berlin)",
+    "tripId": "1|108432|0|86|22052025",
+    "line": {
+      "type": "line",
+      "id": "s7",
+      "fahrtNr": null,
+      "name": "S7",
+      "public": true,
+      "productName": "S",
+      "mode": "train",
+      "product": "suburban"
+    },
+    "location": {
+      "type": "location",
+      "latitude": 52.520519,
+      "longitude": 13.386448
+    },
+    "nextStopovers": [
+      {
+        "stop": {
+          "type": "stop",
+          "id": "900053301",
+          "name": "S Wannsee Bhf (Berlin)",
+          "location": {
+            "type": "location",
+            "id": "900053301",
+            "latitude": 52.421728,
+            "longitude": 13.178932
+          },
+          "products": {
+            "suburban": true,
+            "subway": false,
+            "tram": false,
+            "bus": true,
+            "ferry": false,
+            "express": true,
+            "regional": true
+          }
+        },
+        "arrival": null,
+        "plannedArrival": null,
+        "arrivalDelay": null,
+        "arrivalPlatform": null,
+        "arrivalPrognosisType": null,
+        "plannedArrivalPlatform": null,
+        "departure": "2025-05-22T14:55:00+02:00",
+        "plannedDeparture": "2025-05-22T14:52:00+02:00",
+        "departureDelay": 180,
+        "departurePlatform": "4",
+        "departurePrognosisType": null,
+        "plannedDeparturePlatform": null
+      },
+      {
+        "stop": {
+          "type": "stop",
+          "id": "900100001",
+          "name": "S+U Friedrichstr. Bhf (Berlin)",
+          "location": {
+            "type": "location",
+            "id": "900100001",
+            "latitude": 52.520519,
+            "longitude": 13.386448
+          },
+          "products": {
+            "suburban": true,
+            "subway": true,
+            "tram": true,
+            "bus": true,
+            "ferry": false,
+            "express": false,
+            "regional": true
+          }
+        },
+        "arrival": "2025-05-22T15:23:00+02:00",
+        "plannedArrival": "2025-05-22T15:20:00+02:00",
+        "arrivalDelay": 180,
+        "arrivalPlatform": "5",
+        "arrivalPrognosisType": null,
+        "plannedArrivalPlatform": null,
+        "departure": "2025-05-22T15:24:00+02:00",
+        "plannedDeparture": "2025-05-22T15:21:00+02:00",
+        "departureDelay": 180,
+        "departurePlatform": "5",
+        "departurePrognosisType": null,
+        "plannedDeparturePlatform": null
+      },
+      {
+        "stop": {
+          "type": "stop",
+          "id": "900100002",
+          "name": "S Hackescher Markt (Berlin)",
+          "location": {
+            "type": "location",
+            "id": "900100002",
+            "latitude": 52.522605,
+            "longitude": 13.402359
+          },
+          "products": {
+            "suburban": true,
+            "subway": false,
+            "tram": true,
+            "bus": true,
+            "ferry": false,
+            "express": false,
+            "regional": false
+          }
+        },
+        "arrival": "2025-05-22T15:25:00+02:00",
+        "plannedArrival": "2025-05-22T15:22:00+02:00",
+        "arrivalDelay": 180,
+        "arrivalPlatform": "3",
+        "arrivalPrognosisType": null,
+        "plannedArrivalPlatform": null,
+        "departure": "2025-05-22T15:26:00+02:00",
+        "plannedDeparture": "2025-05-22T15:23:00+02:00",
+        "departureDelay": 180,
+        "departurePlatform": "3",
+        "departurePrognosisType": null,
+        "plannedDeparturePlatform": null
+      },
+      {
+        "stop": {
+          "type": "stop",
+          "id": "900170004",
+          "name": "S Ahrensfelde Bhf (Berlin)",
+          "location": {
+            "type": "location",
+            "id": "900170004",
+            "latitude": 52.571335,
+            "longitude": 13.565648
+          },
+          "products": {
+            "suburban": true,
+            "subway": false,
+            "tram": false,
+            "bus": true,
+            "ferry": false,
+            "express": false,
+            "regional": true
+          }
+        },
+        "arrival": "2025-05-22T15:57:00+02:00",
+        "plannedArrival": "2025-05-22T15:54:00+02:00",
+        "arrivalDelay": 180,
+        "arrivalPlatform": "42",
+        "arrivalPrognosisType": null,
+        "plannedArrivalPlatform": null,
+        "departure": null,
+        "plannedDeparture": null,
+        "departureDelay": null,
+        "departurePlatform": null,
+        "departurePrognosisType": null,
+        "plannedDeparturePlatform": null
+      }
+    ],
+    "frames": [
+      {
+        "origin": {
+          "type": "stop",
+          "id": "900100001",
+          "name": "S+U Friedrichstr. Bhf (Berlin)",
+          "location": {
+            "type": "location",
+            "id": "900100001",
+            "latitude": 52.520519,
+            "longitude": 13.386448
+          },
+          "products": {
+            "suburban": true,
+            "subway": true,
+            "tram": true,
+            "bus": true,
+            "ferry": false,
+            "express": false,
+            "regional": true
+          }
+        },
+        "destination": {
+          "type": "stop",
+          "id": "900100002",
+          "name": "S Hackescher Markt (Berlin)",
+          "location": {
+            "type": "location",
+            "id": "900100002",
+            "latitude": 52.522605,
+            "longitude": 13.402359
+          },
+          "products": {
+            "suburban": true,
+            "subway": false,
+            "tram": true,
+            "bus": true,
+            "ferry": false,
+            "express": false,
+            "regional": false
+          }
+        },
+        "t": 0
+      },
+      {
+        "origin": {
+          "type": "stop",
+          "id": "900100001",
+          "name": "S+U Friedrichstr. Bhf (Berlin)",
+          "location": {
+            "type": "location",
+            "id": "900100001",
+            "latitude": 52.520519,
+            "longitude": 13.386448
+          },
+          "products": {
+            "suburban": true,
+            "subway": true,
+            "tram": true,
+            "bus": true,
+            "ferry": false,
+            "express": false,
+            "regional": true
+          }
+        },
+        "destination": {
+          "type": "stop",
+          "id": "900100002",
+          "name": "S Hackescher Markt (Berlin)",
+          "location": {
+            "type": "location",
+            "id": "900100002",
+            "latitude": 52.522605,
+            "longitude": 13.402359
+          },
+          "products": {
+            "suburban": true,
+            "subway": false,
+            "tram": true,
+            "bus": true,
+            "ferry": false,
+            "express": false,
+            "regional": false
+          }
+        },
+        "t": 10000
+      },
+      {
+        "origin": {
+          "type": "stop",
+          "id": "900100001",
+          "name": "S+U Friedrichstr. Bhf (Berlin)",
+          "location": {
+            "type": "location",
+            "id": "900100001",
+            "latitude": 52.520519,
+            "longitude": 13.386448
+          },
+          "products": {
+            "suburban": true,
+            "subway": true,
+            "tram": true,
+            "bus": true,
+            "ferry": false,
+            "express": false,
+            "regional": true
+          }
+        },
+        "destination": {
+          "type": "stop",
+          "id": "900100002",
+          "name": "S Hackescher Markt (Berlin)",
+          "location": {
+            "type": "location",
+            "id": "900100002",
+            "latitude": 52.522605,
+            "longitude": 13.402359
+          },
+          "products": {
+            "suburban": true,
+            "subway": false,
+            "tram": true,
+            "bus": true,
+            "ferry": false,
+            "express": false,
+            "regional": false
+          }
+        },
+        "t": 20000
+      },
+      {
+        "origin": {
+          "type": "stop",
+          "id": "900100001",
+          "name": "S+U Friedrichstr. Bhf (Berlin)",
+          "location": {
+            "type": "location",
+            "id": "900100001",
+            "latitude": 52.520519,
+            "longitude": 13.386448
+          },
+          "products": {
+            "suburban": true,
+            "subway": true,
+            "tram": true,
+            "bus": true,
+            "ferry": false,
+            "express": false,
+            "regional": true
+          }
+        },
+        "destination": {
+          "type": "stop",
+          "id": "900100002",
+          "name": "S Hackescher Markt (Berlin)",
+          "location": {
+            "type": "location",
+            "id": "900100002",
+            "latitude": 52.522605,
+            "longitude": 13.402359
+          },
+          "products": {
+            "suburban": true,
+            "subway": false,
+            "tram": true,
+            "bus": true,
+            "ferry": false,
+            "express": false,
+            "regional": false
+          }
+        },
+        "t": 30000
+      }
+    ],
+    "polyline": {
+      "type": "FeatureCollection",
+      "features": [
+        {
+          "type": "Feature",
+          "properties": {},
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              13.38645,
+              52.52052
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {},
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              13.38645,
+              52.52052
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {},
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              13.38907,
+              52.52009
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {},
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              13.39252,
+              52.52026
+            ]
+          }
+        }
+      ]
+    },
+    "realtimeDataUpdatedAt": 1747920220,
+    "ingestedAt": 1747920236819
+  },
+  {
+    "name": "Spreebrücke Bahnhof Friedrichstraße",
+    "north": 52.52105,
+    "west": 13.384638,
+    "south": 52.519506,
+    "east": 13.388913,
+    "direction": "S Potsdam Hauptbahnhof",
+    "tripId": "1|3744|2|86|22052025",
+    "line": {
+      "type": "line",
+      "id": "de-vbb-11000000-s-bahn-s7",
+      "fahrtNr": null,
+      "name": "S7",
+      "public": true,
+      "productName": "S",
+      "mode": "train",
+      "product": "suburban"
+    },
+    "location": {
+      "type": "location",
+      "latitude": 52.520519,
+      "longitude": 13.386448
+    },
+    "nextStopovers": [
+      {
+        "stop": {
+          "type": "stop",
+          "id": "900170004",
+          "name": "S Ahrensfelde Bhf (Berlin)",
+          "location": {
+            "type": "location",
+            "id": "900170004",
+            "latitude": 52.571335,
+            "longitude": 13.565648
+          },
+          "products": {
+            "suburban": true,
+            "subway": false,
+            "tram": false,
+            "bus": true,
+            "ferry": false,
+            "express": false,
+            "regional": true
+          }
+        },
+        "arrival": null,
+        "plannedArrival": null,
+        "arrivalDelay": null,
+        "arrivalPlatform": null,
+        "arrivalPrognosisType": null,
+        "plannedArrivalPlatform": null,
+        "departure": "2025-05-22T14:51:00+02:00",
+        "plannedDeparture": "2025-05-22T14:51:00+02:00",
+        "departureDelay": 0,
+        "departurePlatform": "42",
+        "departurePrognosisType": null,
+        "plannedDeparturePlatform": "42"
+      },
+      {
+        "stop": {
+          "type": "stop",
+          "id": "900100001",
+          "name": "S+U Friedrichstr. Bhf (Berlin)",
+          "location": {
+            "type": "location",
+            "id": "900100001",
+            "latitude": 52.520519,
+            "longitude": 13.386448
+          },
+          "products": {
+            "suburban": true,
+            "subway": true,
+            "tram": true,
+            "bus": true,
+            "ferry": false,
+            "express": false,
+            "regional": true
+          }
+        },
+        "arrival": "2025-05-22T15:23:00+02:00",
+        "plannedArrival": "2025-05-22T15:23:00+02:00",
+        "arrivalDelay": 0,
+        "arrivalPlatform": "6",
+        "arrivalPrognosisType": null,
+        "plannedArrivalPlatform": "6",
+        "departure": "2025-05-22T15:24:00+02:00",
+        "plannedDeparture": "2025-05-22T15:24:00+02:00",
+        "departureDelay": 0,
+        "departurePlatform": "6",
+        "departurePrognosisType": null,
+        "plannedDeparturePlatform": "6"
+      },
+      {
+        "stop": {
+          "type": "stop",
+          "id": "900003201",
+          "name": "S+U Berlin Hauptbahnhof",
+          "location": {
+            "type": "location",
+            "id": "900003201",
+            "latitude": 52.525607,
+            "longitude": 13.369072
+          },
+          "products": {
+            "suburban": true,
+            "subway": true,
+            "tram": true,
+            "bus": true,
+            "ferry": false,
+            "express": true,
+            "regional": true
+          }
+        },
+        "arrival": "2025-05-22T15:26:00+02:00",
+        "plannedArrival": "2025-05-22T15:26:00+02:00",
+        "arrivalDelay": 0,
+        "arrivalPlatform": "16",
+        "arrivalPrognosisType": null,
+        "plannedArrivalPlatform": "16",
+        "departure": "2025-05-22T15:27:00+02:00",
+        "plannedDeparture": "2025-05-22T15:27:00+02:00",
+        "departureDelay": 0,
+        "departurePlatform": "16",
+        "departurePrognosisType": null,
+        "plannedDeparturePlatform": "16"
+      },
+      {
+        "stop": {
+          "type": "stop",
+          "id": "900230999",
+          "name": "S Potsdam Hauptbahnhof",
+          "location": {
+            "type": "location",
+            "id": "900230999",
+            "latitude": 52.391443,
+            "longitude": 13.06716
+          },
+          "products": {
+            "suburban": true,
+            "subway": false,
+            "tram": true,
+            "bus": true,
+            "ferry": false,
+            "express": true,
+            "regional": true
+          }
+        },
+        "arrival": "2025-05-22T16:02:00+02:00",
+        "plannedArrival": "2025-05-22T16:02:00+02:00",
+        "arrivalDelay": 0,
+        "arrivalPlatform": "7",
+        "arrivalPrognosisType": null,
+        "plannedArrivalPlatform": "7",
+        "departure": null,
+        "plannedDeparture": null,
+        "departureDelay": null,
+        "departurePlatform": null,
+        "departurePrognosisType": null,
+        "plannedDeparturePlatform": null
+      }
+    ],
+    "frames": [
+      {
+        "origin": {
+          "type": "stop",
+          "id": "900100001",
+          "name": "S+U Friedrichstr. Bhf (Berlin)",
+          "location": {
+            "type": "location",
+            "id": "900100001",
+            "latitude": 52.520519,
+            "longitude": 13.386448
+          },
+          "products": {
+            "suburban": true,
+            "subway": true,
+            "tram": true,
+            "bus": true,
+            "ferry": false,
+            "express": false,
+            "regional": true
+          }
+        },
+        "destination": {
+          "type": "stop",
+          "id": "900003201",
+          "name": "S+U Berlin Hauptbahnhof",
+          "location": {
+            "type": "location",
+            "id": "900003201",
+            "latitude": 52.525607,
+            "longitude": 13.369072
+          },
+          "products": {
+            "suburban": true,
+            "subway": true,
+            "tram": true,
+            "bus": true,
+            "ferry": false,
+            "express": true,
+            "regional": true
+          }
+        },
+        "t": 0
+      },
+      {
+        "origin": {
+          "type": "stop",
+          "id": "900100001",
+          "name": "S+U Friedrichstr. Bhf (Berlin)",
+          "location": {
+            "type": "location",
+            "id": "900100001",
+            "latitude": 52.520519,
+            "longitude": 13.386448
+          },
+          "products": {
+            "suburban": true,
+            "subway": true,
+            "tram": true,
+            "bus": true,
+            "ferry": false,
+            "express": false,
+            "regional": true
+          }
+        },
+        "destination": {
+          "type": "stop",
+          "id": "900003201",
+          "name": "S+U Berlin Hauptbahnhof",
+          "location": {
+            "type": "location",
+            "id": "900003201",
+            "latitude": 52.525607,
+            "longitude": 13.369072
+          },
+          "products": {
+            "suburban": true,
+            "subway": true,
+            "tram": true,
+            "bus": true,
+            "ferry": false,
+            "express": true,
+            "regional": true
+          }
+        },
+        "t": 10000
+      },
+      {
+        "origin": {
+          "type": "stop",
+          "id": "900100001",
+          "name": "S+U Friedrichstr. Bhf (Berlin)",
+          "location": {
+            "type": "location",
+            "id": "900100001",
+            "latitude": 52.520519,
+            "longitude": 13.386448
+          },
+          "products": {
+            "suburban": true,
+            "subway": true,
+            "tram": true,
+            "bus": true,
+            "ferry": false,
+            "express": false,
+            "regional": true
+          }
+        },
+        "destination": {
+          "type": "stop",
+          "id": "900003201",
+          "name": "S+U Berlin Hauptbahnhof",
+          "location": {
+            "type": "location",
+            "id": "900003201",
+            "latitude": 52.525607,
+            "longitude": 13.369072
+          },
+          "products": {
+            "suburban": true,
+            "subway": true,
+            "tram": true,
+            "bus": true,
+            "ferry": false,
+            "express": true,
+            "regional": true
+          }
+        },
+        "t": 20000
+      },
+      {
+        "origin": {
+          "type": "stop",
+          "id": "900100001",
+          "name": "S+U Friedrichstr. Bhf (Berlin)",
+          "location": {
+            "type": "location",
+            "id": "900100001",
+            "latitude": 52.520519,
+            "longitude": 13.386448
+          },
+          "products": {
+            "suburban": true,
+            "subway": true,
+            "tram": true,
+            "bus": true,
+            "ferry": false,
+            "express": false,
+            "regional": true
+          }
+        },
+        "destination": {
+          "type": "stop",
+          "id": "900003201",
+          "name": "S+U Berlin Hauptbahnhof",
+          "location": {
+            "type": "location",
+            "id": "900003201",
+            "latitude": 52.525607,
+            "longitude": 13.369072
+          },
+          "products": {
+            "suburban": true,
+            "subway": true,
+            "tram": true,
+            "bus": true,
+            "ferry": false,
+            "express": true,
+            "regional": true
+          }
+        },
+        "t": 30000
+      }
+    ],
+    "polyline": {
+      "type": "FeatureCollection",
+      "features": [
+        {
+          "type": "Feature",
+          "properties": {},
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              13.38645,
+              52.52052
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {},
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              13.38645,
+              52.52052
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {},
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              13.38506,
+              52.52085
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {},
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              13.38328,
+              52.52127
+            ]
+          }
+        }
+      ]
+    },
+    "realtimeDataUpdatedAt": 1747920220,
+    "ingestedAt": 1747920236819
+  },
+  {
+    "name": "Spreebrücke Bahnhof Friedrichstraße",
+    "north": 52.52105,
+    "west": 13.384638,
+    "south": 52.519506,
+    "east": 13.388913,
+    "direction": "S Strausberg Nord",
+    "tripId": "1|3149|9|86|22052025",
+    "line": {
+      "type": "line",
+      "id": "de-vbb-11000000-s-bahn-s5",
+      "fahrtNr": null,
+      "name": "S5",
+      "public": true,
+      "productName": "S",
+      "mode": "train",
+      "product": "suburban"
+    },
+    "location": {
+      "type": "location",
+      "latitude": 52.520609,
+      "longitude": 13.386107
+    },
+    "nextStopovers": [
+      {
+        "stop": {
+          "type": "stop",
+          "id": "900024102",
+          "name": "S Westkreuz (Berlin)",
+          "location": {
+            "type": "location",
+            "id": "900024102",
+            "latitude": 52.501148,
+            "longitude": 13.283036
+          },
+          "products": {
+            "suburban": true,
+            "subway": false,
+            "tram": false,
+            "bus": true,
+            "ferry": false,
+            "express": false,
+            "regional": false
+          }
+        },
+        "arrival": null,
+        "plannedArrival": null,
+        "arrivalDelay": null,
+        "arrivalPlatform": null,
+        "arrivalPrognosisType": null,
+        "plannedArrivalPlatform": null,
+        "departure": "2025-05-22T15:09:00+02:00",
+        "plannedDeparture": "2025-05-22T15:07:00+02:00",
+        "departureDelay": 120,
+        "departurePlatform": "3",
+        "departurePrognosisType": null,
+        "plannedDeparturePlatform": "3"
+      },
+      {
+        "stop": {
+          "type": "stop",
+          "id": "900003201",
+          "name": "S+U Berlin Hauptbahnhof",
+          "location": {
+            "type": "location",
+            "id": "900003201",
+            "latitude": 52.525607,
+            "longitude": 13.369072
+          },
+          "products": {
+            "suburban": true,
+            "subway": true,
+            "tram": true,
+            "bus": true,
+            "ferry": false,
+            "express": true,
+            "regional": true
+          }
+        },
+        "arrival": "2025-05-22T15:21:00+02:00",
+        "plannedArrival": "2025-05-22T15:20:00+02:00",
+        "arrivalDelay": 60,
+        "arrivalPlatform": "15",
+        "arrivalPrognosisType": null,
+        "plannedArrivalPlatform": "15",
+        "departure": "2025-05-22T15:22:00+02:00",
+        "plannedDeparture": "2025-05-22T15:21:00+02:00",
+        "departureDelay": 60,
+        "departurePlatform": "15",
+        "departurePrognosisType": null,
+        "plannedDeparturePlatform": "15"
+      },
+      {
+        "stop": {
+          "type": "stop",
+          "id": "900100001",
+          "name": "S+U Friedrichstr. Bhf (Berlin)",
+          "location": {
+            "type": "location",
+            "id": "900100001",
+            "latitude": 52.520519,
+            "longitude": 13.386448
+          },
+          "products": {
+            "suburban": true,
+            "subway": true,
+            "tram": true,
+            "bus": true,
+            "ferry": false,
+            "express": false,
+            "regional": true
+          }
+        },
+        "arrival": "2025-05-22T15:24:00+02:00",
+        "plannedArrival": "2025-05-22T15:23:00+02:00",
+        "arrivalDelay": 60,
+        "arrivalPlatform": "5",
+        "arrivalPrognosisType": null,
+        "plannedArrivalPlatform": "5",
+        "departure": "2025-05-22T15:25:00+02:00",
+        "plannedDeparture": "2025-05-22T15:23:00+02:00",
+        "departureDelay": 120,
+        "departurePlatform": "5",
+        "departurePrognosisType": null,
+        "plannedDeparturePlatform": "5"
+      },
+      {
+        "stop": {
+          "type": "stop",
+          "id": "900320001",
+          "name": "S Strausberg Nord",
+          "location": {
+            "type": "location",
+            "id": "900320001",
+            "latitude": 52.590698,
+            "longitude": 13.908892
+          },
+          "products": {
+            "suburban": true,
+            "subway": false,
+            "tram": false,
+            "bus": true,
+            "ferry": false,
+            "express": false,
+            "regional": false
+          }
+        },
+        "arrival": "2025-05-22T16:25:00+02:00",
+        "plannedArrival": "2025-05-22T16:25:00+02:00",
+        "arrivalDelay": 0,
+        "arrivalPlatform": "2",
+        "arrivalPrognosisType": null,
+        "plannedArrivalPlatform": "2",
+        "departure": null,
+        "plannedDeparture": null,
+        "departureDelay": null,
+        "departurePlatform": null,
+        "departurePrognosisType": null,
+        "plannedDeparturePlatform": null
+      }
+    ],
+    "frames": [
+      {
+        "origin": {
+          "type": "stop",
+          "id": "900003201",
+          "name": "S+U Berlin Hauptbahnhof",
+          "location": {
+            "type": "location",
+            "id": "900003201",
+            "latitude": 52.525607,
+            "longitude": 13.369072
+          },
+          "products": {
+            "suburban": true,
+            "subway": true,
+            "tram": true,
+            "bus": true,
+            "ferry": false,
+            "express": true,
+            "regional": true
+          }
+        },
+        "destination": {
+          "type": "stop",
+          "id": "900100001",
+          "name": "S+U Friedrichstr. Bhf (Berlin)",
+          "location": {
+            "type": "location",
+            "id": "900100001",
+            "latitude": 52.520519,
+            "longitude": 13.386448
+          },
+          "products": {
+            "suburban": true,
+            "subway": true,
+            "tram": true,
+            "bus": true,
+            "ferry": false,
+            "express": false,
+            "regional": true
+          }
+        },
+        "t": 0
+      },
+      {
+        "origin": {
+          "type": "stop",
+          "id": "900100001",
+          "name": "S+U Friedrichstr. Bhf (Berlin)",
+          "location": {
+            "type": "location",
+            "id": "900100001",
+            "latitude": 52.520519,
+            "longitude": 13.386448
+          },
+          "products": {
+            "suburban": true,
+            "subway": true,
+            "tram": true,
+            "bus": true,
+            "ferry": false,
+            "express": false,
+            "regional": true
+          }
+        },
+        "destination": {
+          "type": "stop",
+          "id": "900100002",
+          "name": "S Hackescher Markt (Berlin)",
+          "location": {
+            "type": "location",
+            "id": "900100002",
+            "latitude": 52.522605,
+            "longitude": 13.402359
+          },
+          "products": {
+            "suburban": true,
+            "subway": false,
+            "tram": true,
+            "bus": true,
+            "ferry": false,
+            "express": false,
+            "regional": false
+          }
+        },
+        "t": 10000
+      },
+      {
+        "origin": {
+          "type": "stop",
+          "id": "900100001",
+          "name": "S+U Friedrichstr. Bhf (Berlin)",
+          "location": {
+            "type": "location",
+            "id": "900100001",
+            "latitude": 52.520519,
+            "longitude": 13.386448
+          },
+          "products": {
+            "suburban": true,
+            "subway": true,
+            "tram": true,
+            "bus": true,
+            "ferry": false,
+            "express": false,
+            "regional": true
+          }
+        },
+        "destination": {
+          "type": "stop",
+          "id": "900100002",
+          "name": "S Hackescher Markt (Berlin)",
+          "location": {
+            "type": "location",
+            "id": "900100002",
+            "latitude": 52.522605,
+            "longitude": 13.402359
+          },
+          "products": {
+            "suburban": true,
+            "subway": false,
+            "tram": true,
+            "bus": true,
+            "ferry": false,
+            "express": false,
+            "regional": false
+          }
+        },
+        "t": 20000
+      },
+      {
+        "origin": {
+          "type": "stop",
+          "id": "900100001",
+          "name": "S+U Friedrichstr. Bhf (Berlin)",
+          "location": {
+            "type": "location",
+            "id": "900100001",
+            "latitude": 52.520519,
+            "longitude": 13.386448
+          },
+          "products": {
+            "suburban": true,
+            "subway": true,
+            "tram": true,
+            "bus": true,
+            "ferry": false,
+            "express": false,
+            "regional": true
+          }
+        },
+        "destination": {
+          "type": "stop",
+          "id": "900100002",
+          "name": "S Hackescher Markt (Berlin)",
+          "location": {
+            "type": "location",
+            "id": "900100002",
+            "latitude": 52.522605,
+            "longitude": 13.402359
+          },
+          "products": {
+            "suburban": true,
+            "subway": false,
+            "tram": true,
+            "bus": true,
+            "ferry": false,
+            "express": false,
+            "regional": false
+          }
+        },
+        "t": 30000
+      }
+    ],
+    "polyline": {
+      "type": "FeatureCollection",
+      "features": [
+        {
+          "type": "Feature",
+          "properties": {},
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              13.38611,
+              52.52061
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {},
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              13.38645,
+              52.52052
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {},
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              13.38645,
+              52.52052
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {},
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              13.38645,
+              52.52052
+            ]
+          }
+        }
+      ]
+    },
+    "realtimeDataUpdatedAt": 1747920220,
+    "ingestedAt": 1747920236819
+  }
+]
